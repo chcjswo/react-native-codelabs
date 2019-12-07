@@ -6,7 +6,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <WebView
-        source={{ url: 'https://youtube.com' }}
+        source={{ url: 'https://lunch.mocadev.me/' }}
         style={{ width: Dimensions.get('window').width }}
       />
     </SafeAreaView>
