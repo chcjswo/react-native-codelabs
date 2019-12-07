@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SimpleChat",
-    "slug": "simple-chat",
+    "name": "ZipFinder",
+    "slug": "zip-finder",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -24,11 +24,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.mocadevs.simplechat"
-    },
-    "android": {
-      "package": "com.mocadevs.simplechat"
+      "supportsTablet": true
     }
   }
 }
